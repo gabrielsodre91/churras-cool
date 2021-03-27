@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "description": "Aniversário do João",
+    "date": "2021-03-26T12:00:00Z",
+    "observations": "Na casa do Antônio",
+    "participants": [
+      {
+        "id": 1,
+        "drinkIncluded": false,
+        "name": "José",
+        "paid": true,
+        "value": 10
+      },
+      {
+        "id": 2,
+        "drinkIncluded": true,
+        "name": "Maria",
+        "paid": false,
+        "value": 20
+      },
+      {
+        "id": 3,
+        "drinkIncluded": true,
+        "name": "Paulo",
+        "paid": true,
+        "value": 15
+      },
+      {
+        "id": 4,
+        "drinkIncluded": false,
+        "name": "Letícia",
+        "paid": false,
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "description": "Confra",
+    "date": "2021-01-01T12:00:00Z",
+    "observations": "No shopping tal",
+    "participants": [
+      {
+        "id": 1,
+        "drinkIncluded": false,
+        "name": "José",
+        "paid": true,
+        "value": 30
+      },
+      {
+        "id": 2,
+        "drinkIncluded": true,
+        "name": "Maria",
+        "paid": false,
+        "value": 20
+      },
+      {
+        "id": 3,
+        "drinkIncluded": true,
+        "name": "Paulo",
+        "paid": true,
+        "value": 20
+      },
+      {
+        "id": 4,
+        "drinkIncluded": false,
+        "name": "Letícia",
+        "paid": false,
+        "value": 30
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "description": "Aniversário da Paula",
+    "date": "2020-03-26T12:00:00Z",
+    "observations": "Na casa do Rodrigo",
+    "participants": [
+      {
+        "id": 1,
+        "drinkIncluded": false,
+        "name": "José",
+        "paid": true,
+        "value": 40
+      },
+      {
+        "id": 2,
+        "drinkIncluded": true,
+        "name": "Maria",
+        "paid": false,
+        "value": 50
+      },
+      {
+        "id": 3,
+        "drinkIncluded": true,
+        "name": "Paulo",
+        "paid": true,
+        "value": 30
+      },
+      {
+        "id": 4,
+        "drinkIncluded": false,
+        "name": "Letícia",
+        "paid": false,
+        "value": 50
+      }
+    ]
+  }
+]
